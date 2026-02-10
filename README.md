@@ -1,2 +1,3 @@
 # Image-Processing
-2025_spring class
+[NYCU 2025 Spring] Image Processing
+陳冠文教授
